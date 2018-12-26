@@ -1,1 +1,1 @@
-# ec-server
+# quotes-server
